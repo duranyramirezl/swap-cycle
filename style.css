@@ -14,7 +14,7 @@ body {
   margin-bottom: 1em;
   background: url('images/background-pattern-24.png') repeat;
   background-size: 40%;
-  background-color: #2c3532;
+  background-color: #191616;
   color: #ffffff;
 }
 
@@ -22,7 +22,7 @@ body {
 nav {
   display: flex;
   justify-content: center;
-  background-color: #1c1c1f;
+  background-color: #111114;
   position: fixed;
   width: 100%;
   bottom: 0;
