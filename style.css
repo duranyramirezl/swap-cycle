@@ -9,7 +9,7 @@ body {
   font-family: "futura-pt", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.1em;
+  font-size: 1.2em;
   color: #ffffff;
   margin-bottom: 1em;
   background: url('images/background-pattern-24.png') repeat;
@@ -39,7 +39,7 @@ nav ul {
 }
 
 nav ul li a {
-  font-size: 1.1em;
+  font-size: 1em;
   text-decoration: none;
   color: #ffffff;
   display: flex;
